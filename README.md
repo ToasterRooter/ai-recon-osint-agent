@@ -41,7 +41,7 @@
 #### 1. Клонирование репозитория и установка зависимостей
 Склонируйте репозиторий и установите все необходимые библиотеки одной командой с помощью `requirements.txt`:
 ```bash
-git clone [https://github.com/yourusername/ai-recon-osint-agent.git](https://github.com/yourusername/ai-recon-osint-agent.git)
+git clone https://github.com/ToasterRooter/ai-recon-osint-agent.git
 cd ai-recon-osint-agent
 
 # Автоматическая установка всех зависимостей
@@ -131,7 +131,7 @@ The architecture strictly adheres to modular isolation patterns (low coupling), 
 Clone this repository and easily deploy all necessary libraries using the `requirements.txt` file:
 
 ```bash
-git clone [https://github.com/yourusername/ai-recon-osint-agent.git](https://github.com/yourusername/ai-recon-osint-agent.git)
+git clone https://github.com/ToasterRooter/ai-recon-osint-agent.git
 cd ai-recon-osint-agent
 
 # Install all required libraries automatically
