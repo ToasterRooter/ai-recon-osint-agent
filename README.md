@@ -1,6 +1,14 @@
 # AI-RECON OSINT AGENT
 
 [Русский](#русский) | [English](#english)
+<img width="979" height="301" alt="Снимок экрана_20260712_153218" src="https://github.com/user-attachments/assets/e248628d-91a3-4411-a025-e9c6891be84c" />
+
+<img width="977" height="449" alt="Снимок экрана_20260712_153313" src="https://github.com/user-attachments/assets/9ea30913-404c-49b3-bdd4-ed5328751fe1" />
+
+<img width="1218" height="695" alt="Снимок экрана_20260712_153426" src="https://github.com/user-attachments/assets/8684aa60-7cd4-4117-92ee-9d8fb29fe9bd" />
+
+<img width="1216" height="271" alt="Снимок экрана_20260712_153443" src="https://github.com/user-attachments/assets/5f3e8186-6e25-4833-8ad0-6706d42d068f" />
+
 
 ---
 
